@@ -1,5 +1,7 @@
 # 💫 About Me:
-🎓 Studying Informatics at TU Wien<br>🧑‍💻 Passionate about everything web development – especially Vue & TypeScript<br>📊 Currently building **Aktien-Briefing** to level up my Python skills<br>
+🎓 Studying Informatics at TU Wien<br>
+🧑‍💻 Passionate about everything web development – especially Vue & TypeScript<br>
+📊 Currently building **[Aktien-Briefing](https://github.com/danielpillwein/Aktien-Briefing)** to level up my Python skills<br>
 
 
 # 💻 Tech Stack:
